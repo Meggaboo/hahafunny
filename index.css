@@ -1,0 +1,17 @@
+h1 {
+    font-size: 30pt;
+    font-family: Arial;
+    color: green;
+    text-align: center;
+    margin-bottom: 2px;
+    font-weight: bold;
+}
+
+#idk {
+    color: gray;
+    font-size: 15pt;
+    text-align: center;
+    font-family: Arial;
+    margin-top: 0px;
+    font-weight: normal;
+}
